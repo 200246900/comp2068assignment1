@@ -1,0 +1,19 @@
+{
+  "name": "assignment1",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "200246900 <200246900@student.georgianc.on.ca>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
